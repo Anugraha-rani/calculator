@@ -1,0 +1,10 @@
+#but{
+    background: transparent;
+    border: solid 1px gray;
+    font-size: 20px;
+    font-weight: 600;
+}
+#but:hover{
+    background-color: rgb(10, 10, 116);
+    color: white;
+}
